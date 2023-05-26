@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on MERN technologies.
 - 🌱 I’m currently learning Docker, Kubernetes and Cloud.
 - 💬 Ask me about TBD
-- 📫 How to reach me: sharmadevanand99@gmail.com
+- 📫 How to reach me: devanand_sharma@outlook.com || sharmadevanand99@gmail.com
 
 <h3>🚀 My weapons </h3>
 <p align="left">
